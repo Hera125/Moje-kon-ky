@@ -16,4 +16,4 @@ Vítejte na mém projektu! Zde představuji své oblíbené koníčky a aktivity
 
 - [YouTube](https://www.youtube.com/)
 
-Můj **nejoblíbenější** koníček je *jízda na kole*.
+Můj **nejoblíbenější** koníček je *lakros*.
