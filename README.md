@@ -17,3 +17,6 @@ Vítejte na mém projektu! Zde představuji své oblíbené koníčky a aktivity
 - [YouTube](https://www.youtube.com/)
 
 Můj **nejoblíbenější** koníček je *lakros*.
+## Shrnutí
+
+Tento projekt představuje mé koníčky. Naučil/a jsem se pracovat se složkami, obrázky na git hub.
