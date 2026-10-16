@@ -15,3 +15,5 @@ Vítejte na mém projektu! Zde představuji své oblíbené koníčky a aktivity
 ![Poslech hudby](images/OIP.webp)
 
 - [YouTube](https://www.youtube.com/)
+
+Můj **nejoblíbenější** koníček je *jízda na kole*.
