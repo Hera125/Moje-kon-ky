@@ -2,3 +2,5 @@
 markdown
 Vítejte na mém projektu! Zde představuji své oblíbené koníčky a aktivity, kterým se věnuji ve volném čase.
 ![Můj první obrázek](images/Tour-de-France-1.jpg)
+## Užitečné odkazy
+- [Google](https://www.google.com/)
